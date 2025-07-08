@@ -1,0 +1,55 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# === Virtual Environment ===
+venv/
+.env/
+.env.*  # optional .env.development, .env.local
+
+# === IDE Files ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === Data Files ===
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.pickle
+*.pkl
+
+# === Output and Test Artifacts ===
+test_image.jpg
+depth_map.jpg
+runs/  # YOLOv8 outputs saved here (from model.plot(save=True))
+output/
+results/
+*.pt  # Trained YOLO model files
+*.onnx  # Optional exported models
+
+# === Model Downloads ===
+*.pth
+*.bin
+*.tflite
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Git ===
+*.swp
+*.bak
+*.tmp
+*.orig

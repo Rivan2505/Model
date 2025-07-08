@@ -1,0 +1,27 @@
+DROT - Complete Landmass Analysis Report
+Generated: 2025-07-01 19:44:49
+============================================================
+
+SOURCE INFORMATION:
+Image: test_image3.jpg
+Drone Altitude: 1000.0 meters
+Analysis Scale: 0.3660 meters/pixel
+Detection Method: Multi-method comprehensive analysis
+
+SUMMARY:
+Landmasses Detected: 1
+Total Land Area: 1867082 square meters
+Total Area (Hectares): 186.71 ha
+Total Area (Acres): 461.4 acres
+Total Perimeter: 14547 meters (14.5 km)
+
+DETAILED LANDMASS BREAKDOWN:
+--------------------------------------------------
+
+Landmass 1:
+  Area: 1867082 m² (186.71 ha)
+  Dimensions: 1801m x 1184m
+  Perimeter: 14547 meters
+  Coverage: 87.5% of surveyed area
+  Shape: regular (solidity: 0.92)
+  Detection Confidence: 90%
